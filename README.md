@@ -1,3 +1,3 @@
 # Leetcode
 
-![](https://leetcard.jacoblin.cool/yinhsuan?ext=activity)
+![](https://leetcard.jacoblin.cool/yinhsuan?ext=contest)
